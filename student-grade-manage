@@ -8,6 +8,7 @@ int main(){
   int choice;
       cout<<"===Student Grade Manager==="<<endl;
       cout<<"1. Add Student"<<endl<<"2. Exit"<<endl;
+      cout<<"Enter your choice"<<endl;
       
       cin>>choice;
       
